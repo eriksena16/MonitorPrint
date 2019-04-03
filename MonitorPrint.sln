@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonitorPrint", "MonitorPrint\MonitorPrint.csproj", "{67D88F06-8660-4849-AB48-7C546F2FADCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67D88F06-8660-4849-AB48-7C546F2FADCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67D88F06-8660-4849-AB48-7C546F2FADCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67D88F06-8660-4849-AB48-7C546F2FADCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67D88F06-8660-4849-AB48-7C546F2FADCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {277A5B71-1675-4F8B-BA55-9B67DCAA90BF}
+	EndGlobalSection
+EndGlobal
